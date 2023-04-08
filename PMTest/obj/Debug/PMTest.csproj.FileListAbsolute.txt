@@ -1,0 +1,16 @@
+C:\Users\liyuj\source\repos\PMTest\PMTest\bin\Debug\PMTest.exe.config
+C:\Users\liyuj\source\repos\PMTest\PMTest\bin\Debug\PMTest.exe
+C:\Users\liyuj\source\repos\PMTest\PMTest\bin\Debug\PMTest.pdb
+C:\Users\liyuj\source\repos\PMTest\PMTest\obj\Debug\PMTest.csproj.AssemblyReference.cache
+C:\Users\liyuj\source\repos\PMTest\PMTest\obj\Debug\PMTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\liyuj\source\repos\PMTest\PMTest\obj\Debug\MainWindow.g.cs
+C:\Users\liyuj\source\repos\PMTest\PMTest\obj\Debug\App.g.cs
+C:\Users\liyuj\source\repos\PMTest\PMTest\obj\Debug\PMTest_MarkupCompile.cache
+C:\Users\liyuj\source\repos\PMTest\PMTest\obj\Debug\PMTest_MarkupCompile.lref
+C:\Users\liyuj\source\repos\PMTest\PMTest\obj\Debug\MainWindow.baml
+C:\Users\liyuj\source\repos\PMTest\PMTest\obj\Debug\PMTest.g.resources
+C:\Users\liyuj\source\repos\PMTest\PMTest\obj\Debug\PMTest.Properties.Resources.resources
+C:\Users\liyuj\source\repos\PMTest\PMTest\obj\Debug\PMTest.csproj.GenerateResource.cache
+C:\Users\liyuj\source\repos\PMTest\PMTest\obj\Debug\PMTest.csproj.CoreCompileInputs.cache
+C:\Users\liyuj\source\repos\PMTest\PMTest\obj\Debug\PMTest.exe
+C:\Users\liyuj\source\repos\PMTest\PMTest\obj\Debug\PMTest.pdb
